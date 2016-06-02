@@ -7,6 +7,11 @@ Machine Overall Equipment Efficiency are based on 3 important variables :
 2. ## Availability ## -- Available time of machine in a week, calculated in minutes
 3. ## Quality ## -- Quantity of rejected component produced by machine
 
+# Modules
+
+1. Dashboard
+
+
 [moee](https://github.com/nsiregar/moee) based on [Limonade PHP Microframework](https://github.com/sofadesign/limonade/)
 
 # Donation Button

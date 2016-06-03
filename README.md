@@ -9,6 +9,4 @@ Machine Overall Equipment Efficiency are based on 3 important variables :
 
 [moee](https://github.com/nsiregar/moee) based on [Limonade PHP Microframework](https://github.com/sofadesign/limonade/)
 
-# Donation Button
-
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3LHKVTZQ5VRCA)
